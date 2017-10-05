@@ -1,0 +1,7 @@
+build
+client/bin
+client/build
+server/bin
+server/build
+
+*.o
